@@ -1,0 +1,51 @@
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2\Concentration Dominoes\Concentration Dominoes\bin\Debug\Concentration Dominoes.exe.config
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2\Concentration Dominoes\Concentration Dominoes\bin\Debug\Concentration Dominoes.exe
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2\Concentration Dominoes\Concentration Dominoes\bin\Debug\Concentration Dominoes.pdb
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration Dominoes.csprojResolveAssemblyReference.cache
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration_Dominoes.frmConcentrationDominoes.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration_Dominoes.Properties.Resources.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration Dominoes.csproj.GenerateResource.Cache
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration Dominoes.exe
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration Dominoes.pdb
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration Dominoes.g.resources
+D:\+++   SCC   +++\INFO 1434 - Advanced C#\C# 2016\Program 2\Concentration Dominoes\Concentration Dominoes\bin\Debug\Concentration Dominoes.exe.config
+D:\+++   SCC   +++\INFO 1434 - Advanced C#\C# 2016\Program 2\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration Dominoes.exe
+D:\+++   SCC   +++\INFO 1434 - Advanced C#\C# 2016\Program 2\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration Dominoes.pdb
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration_Dominoes.frmGameRules.resources
+C:\Users\Public\Documents\+++   SCC   +++\INFO 1434 - Advanced C#\C# 2016\Program 2\Concentration Dominoes\Concentration Dominoes\bin\Debug\Concentration Dominoes.exe.config
+C:\Users\Public\Documents\+++   SCC   +++\INFO 1434 - Advanced C#\C# 2016\Program 2\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration Dominoes.exe
+C:\Users\Public\Documents\+++   SCC   +++\INFO 1434 - Advanced C#\C# 2016\Program 2\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration Dominoes.pdb
+C:\Users\Public\Documents\+++   SCC   +++\INFO 1434 - Advanced C#\C# 2016\Program 2\Concentration Dominoes\Concentration Dominoes\bin\Debug\Concentration Dominoes.exe
+C:\Users\Public\Documents\+++   SCC   +++\INFO 1434 - Advanced C#\C# 2016\Program 2\Concentration Dominoes\Concentration Dominoes\bin\Debug\Concentration Dominoes.pdb
+C:\Users\Public\Documents\+++   SCC   +++\INFO 1434 - Advanced C#\C# 2016\Program 2\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration Dominoes.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\+++   SCC   +++\INFO 1434 - Advanced C#\C# 2016\Program 2\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration Dominoes.g.resources
+C:\Users\Public\Documents\+++   SCC   +++\INFO 1434 - Advanced C#\C# 2016\Program 2\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration_Dominoes.frmConcentrationDominoes.resources
+C:\Users\Public\Documents\+++   SCC   +++\INFO 1434 - Advanced C#\C# 2016\Program 2\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration_Dominoes.frmGameRules.resources
+C:\Users\Public\Documents\+++   SCC   +++\INFO 1434 - Advanced C#\C# 2016\Program 2\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration_Dominoes.Properties.Resources.resources
+C:\Users\Public\Documents\+++   SCC   +++\INFO 1434 - Advanced C#\C# 2016\Program 2\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration Dominoes.csproj.GenerateResource.Cache
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - V3\Concentration Dominoes\Concentration Dominoes\bin\Debug\Concentration Dominoes.exe.config
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - V3\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration Dominoes.exe
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - V3\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration Dominoes.pdb
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - V3\Concentration Dominoes\Concentration Dominoes\bin\Debug\Concentration Dominoes.exe
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - V3\Concentration Dominoes\Concentration Dominoes\bin\Debug\Concentration Dominoes.pdb
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - V3\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration Dominoes.csprojResolveAssemblyReference.cache
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - V3\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration Dominoes.g.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - V3\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration_Dominoes.frmConcentrationDominoes.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - V3\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration_Dominoes.frmGameRules.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - V3\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration_Dominoes.Properties.Resources.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - V3\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration Dominoes.csproj.GenerateResource.Cache
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\bin\Debug\Concentration Dominoes.exe.config
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration Dominoes.exe
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration Dominoes.pdb
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\bin\Debug\Concentration Dominoes.exe
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\bin\Debug\Concentration Dominoes.pdb
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration Dominoes.csprojResolveAssemblyReference.cache
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration Dominoes.g.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration_Dominoes.frmConcentrationDominoes.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration_Dominoes.frmGameRules.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration_Dominoes.Properties.Resources.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration Dominoes.csproj.GenerateResource.Cache
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\bin\Debug\Concentration Dominoes.exe.manifest
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\bin\Debug\Concentration Dominoes.application
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration Dominoes.exe.manifest
+C:\Users\john_soerjawitaka\Desktop\SCC\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\obj\Debug\Concentration Dominoes.application

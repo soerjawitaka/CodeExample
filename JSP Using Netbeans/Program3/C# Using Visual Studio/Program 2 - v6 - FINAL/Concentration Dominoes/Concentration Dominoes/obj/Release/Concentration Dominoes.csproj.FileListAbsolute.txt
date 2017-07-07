@@ -1,0 +1,14 @@
+C:\Users\john_soerjawitaka\Desktop\SCC\Archive\FALL 2016\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\bin\Release\Concentration Dominoes.exe.config
+C:\Users\john_soerjawitaka\Desktop\SCC\Archive\FALL 2016\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\bin\Release\Concentration Dominoes.exe.manifest
+C:\Users\john_soerjawitaka\Desktop\SCC\Archive\FALL 2016\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\bin\Release\Concentration Dominoes.application
+C:\Users\john_soerjawitaka\Desktop\SCC\Archive\FALL 2016\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\bin\Release\Concentration Dominoes.exe
+C:\Users\john_soerjawitaka\Desktop\SCC\Archive\FALL 2016\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\bin\Release\Concentration Dominoes.pdb
+C:\Users\john_soerjawitaka\Desktop\SCC\Archive\FALL 2016\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\obj\Release\Concentration Dominoes.g.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\Archive\FALL 2016\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\obj\Release\Concentration_Dominoes.frmConcentrationDominoes.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\Archive\FALL 2016\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\obj\Release\Concentration_Dominoes.frmGameRules.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\Archive\FALL 2016\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\obj\Release\Concentration_Dominoes.Properties.Resources.resources
+C:\Users\john_soerjawitaka\Desktop\SCC\Archive\FALL 2016\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\obj\Release\Concentration Dominoes.csproj.GenerateResource.Cache
+C:\Users\john_soerjawitaka\Desktop\SCC\Archive\FALL 2016\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\obj\Release\Concentration Dominoes.exe.manifest
+C:\Users\john_soerjawitaka\Desktop\SCC\Archive\FALL 2016\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\obj\Release\Concentration Dominoes.application
+C:\Users\john_soerjawitaka\Desktop\SCC\Archive\FALL 2016\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\obj\Release\Concentration Dominoes.exe
+C:\Users\john_soerjawitaka\Desktop\SCC\Archive\FALL 2016\INFO 1434 - Advance C#\C#-2016\Program 2 - v6 - FINAL\Concentration Dominoes\Concentration Dominoes\obj\Release\Concentration Dominoes.pdb
